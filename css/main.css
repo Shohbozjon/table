@@ -1,0 +1,13 @@
+.table{
+    border-collapse: collapse;
+    margin: 40px;
+}
+
+
+.table__title , .table__data{
+    text-align: center;
+    border: 1px solid #000;
+    padding: 10px 20px;
+    font-weight: 500;
+    font-size: 22px;
+}
